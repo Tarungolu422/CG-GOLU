@@ -1,0 +1,37 @@
+[
+  {
+    "scheme_name": "Rajiv Gandhi Kisan Nyay Yojana",
+    "department": "Agriculture Department",
+    "eligibility": "Farmers residing in Chhattisgarh holding agricultural land.",
+    "benefits": "Provides input subsidy and financial assistance of ₹9000 to ₹10000 per acre for paddy and other crop production. Farmers also get minimum support price (MSP) for paddy procurement. Financial assistance amount is directly transferred to the farmer's bank account in 4 installments to support agriculture and encourage crop diversification.",
+    "documents_required": [
+      "Aadhar Card",
+      "Bank Passbook",
+      "Land ownership documents (B1, Khasra)"
+    ],
+    "official_link": "https://agriportal.cg.nic.in/"
+  },
+  {
+    "scheme_name": "Godhan Nyay Yojana",
+    "department": "Panchayat and Rural Development",
+    "eligibility": "Cattle rearers and farmers of Chhattisgarh.",
+    "benefits": "The Government purchases cow dung at an assured price of ₹2 per kg, promoting organic farming, vermicompost production, and rural income generation. Payments are made every 15 days.",
+    "documents_required": [
+      "Aadhar Card",
+      "Bank Account Details",
+      "Gothan Registration"
+    ],
+    "official_link": "https://gothan.cgstate.gov.in/"
+  },
+  {
+    "scheme_name": "Mukhyamantri Suposhan Abhiyan",
+    "department": "Women and Child Development",
+    "eligibility": "Malnourished children below 6 years and anaemic women.",
+    "benefits": "Provides free nutritious food, hot cooked meals (eg: eggs, soya chunks, jaggery, peanuts), and regular health check-ups to eradicate malnutrition.",
+    "documents_required": [
+      "Aadhar Card",
+      "Anganwadi Registration"
+    ],
+    "official_link": "https://cgstate.gov.in/"
+  }
+]

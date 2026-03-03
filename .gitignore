@@ -1,0 +1,19 @@
+# Environment Variables
+.env
+__pycache__/
+*.mp3
+*.wav
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+.env_folder/
+
+# Vector Stores
+chroma_db/
+*.sqlite3
+*.bin
+
+# OS Files
+.DS_Store

@@ -1,0 +1,100 @@
+[
+    {
+        "place_name": "Chitrakote Waterfall",
+        "district": "Bastar",
+        "category": "Nature",
+        "description": "Known as the Niagara Falls of India, it is the broadest waterfall in the country, located on the Indravati River. Stunning views during monsoon.",
+        "best_time_to_visit": "July to October"
+    },
+    {
+        "place_name": "Tirathgarh Waterfall",
+        "district": "Bastar",
+        "category": "Nature",
+        "description": "A beautiful block type waterfall on the Kanger River. The water plunges from a height of about 300 feet, making it a popular picnic spot.",
+        "best_time_to_visit": "October to February"
+    },
+    {
+        "place_name": "Sirpur",
+        "district": "Mahasamund",
+        "category": "Heritage/History",
+        "description": "An ancient city rich with archaeological monuments from the 5th to 8th centuries, famous for the Laxman Temple and Buddhist Viharas.",
+        "best_time_to_visit": "October to March"
+    },
+    {
+        "place_name": "Bhoramdeo Temple",
+        "district": "Kabirdham (Kawardha)",
+        "category": "Heritage/Religious",
+        "description": "Often called the Khajuraho of Chhattisgarh, this 11th-century temple complex is dedicated to Lord Shiva and features intricate carvings.",
+        "best_time_to_visit": "October to March"
+    },
+    {
+        "place_name": "Kanan Pendari Zoological Garden",
+        "district": "Bilaspur",
+        "category": "Nature/Wildlife",
+        "description": "A very popular zoo located near Bilaspur city, housing various wildlife species including tigers, lions, bears, and exotic birds. It's a prime picnic spot for families.",
+        "best_time_to_visit": "October to March"
+    },
+    {
+        "place_name": "Ratanpur Mahamaya Temple",
+        "district": "Bilaspur",
+        "category": "Heritage/Religious",
+        "description": "An ancient and highly revered Shakti Peeth dedicated to Goddess Mahamaya, built by the Kalachuri kings in the 12th century. A major pilgrimage site in Chhattisgarh.",
+        "best_time_to_visit": "Navratri (September/October & March/April)"
+    },
+    {
+        "place_name": "Malhar",
+        "district": "Bilaspur",
+        "category": "Heritage/History",
+        "description": "One of the oldest archaeological sites in Chhattisgarh, known for the ancient Pataleshwar Kedar Temple and ruins dating back from the 10th to 12th century Kalachuri period.",
+        "best_time_to_visit": "October to February"
+    },
+    {
+        "place_name": "Khutaghat Dam",
+        "district": "Bilaspur",
+        "category": "Nature",
+        "description": "A scenic reservoir and dam situated about 33 km from Bilaspur. Built across the Kharung river, it offers boating facilities and a very peaceful environment.",
+        "best_time_to_visit": "Monsoon to Winter (July to February)"
+    },
+    {
+        "place_name": "Nandanvan Jungle Safari",
+        "district": "Raipur",
+        "category": "Nature/Wildlife",
+        "description": "Asia's largest man-made Jungle Safari covering beautifully landscaped terrains with dedicated zones for herbivores, bears, tigers, and lions.",
+        "best_time_to_visit": "October to March"
+    },
+    {
+        "place_name": "Mahant Ghasidas Memorial Museum",
+        "district": "Raipur",
+        "category": "Heritage/History",
+        "description": "One of the oldest museums in India, built in 1875. It houses an extensive collection of ancient coins, sculptures, and inscriptions found across Chhattisgarh.",
+        "best_time_to_visit": "All year round"
+    },
+    {
+        "place_name": "Vishnu Mandir",
+        "district": "Janjgir-Champa",
+        "category": "Heritage/Religious",
+        "description": "An incomplete yet magnificent ancient temple dedicated to Lord Vishnu. The intricate stone carvings clearly reflect the mastery of Kalachuri architecture.",
+        "best_time_to_visit": "October to February"
+    },
+    {
+        "place_name": "Madanpurgarh",
+        "district": "Janjgir-Champa",
+        "category": "Nature/Heritage",
+        "description": "A scenic spot situated near the Hasdeo River, known for its small historical ruins and beautiful picnic areas favored by locals.",
+        "best_time_to_visit": "November to February"
+    },
+    {
+        "place_name": "Kendai Waterfall",
+        "district": "Korba",
+        "category": "Nature",
+        "description": "A gorgeous waterfall located on the Ambikapur highway dropping from around 75 feet. Very popular stopover for tourists exploring northern Chhattisgarh.",
+        "best_time_to_visit": "July to October"
+    },
+    {
+        "place_name": "Hasdeo Bango Dam (Minimata Bango)",
+        "district": "Korba",
+        "category": "Nature",
+        "description": "A massive dam built across the Hasdeo River. The surrounding hills and large reservoir make it exceptionally beautiful and a great place for boating.",
+        "best_time_to_visit": "August to January"
+    }
+]
