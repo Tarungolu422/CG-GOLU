@@ -45,10 +45,12 @@ def setup_vector_store() -> Chroma:
         
     return vector_store
 
-def get_retriever(k: int = 3):
-    """Returns a retriever interface from the vector store."""
+def get_retriever(search_type: str = "similarity", search_kwargs: dict = None, k: int = 5):
+    """Returns a retriever interface for the vector store."""
     vector_store = setup_vector_store()
-    return vector_store.as_retriever(search_kwargs={"k": k})
+    if search_kwargs is None:
+        search_kwargs = {"k": k}
+    return vector_store.as_retriever(search_type=search_type, search_kwargs=search_kwargs)
 
 if __name__ == "__main__":
     # Test retrieving

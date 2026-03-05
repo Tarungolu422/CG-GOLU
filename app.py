@@ -17,7 +17,6 @@ from langdetect import detect
 import requests
 import base64
 import re
-
 def speak(text, lang_code):
     """Generates TTS audio using Sarvam API (with gTTS fallback) and returns (file_path, mime_type)."""
     sarvam_api_key = os.getenv("SARVAM_API_KEY")
@@ -31,13 +30,11 @@ def speak(text, lang_code):
             payload = {
                 "inputs": [text[:500] if len(text)>500 else text], # limit payload length for TTS safety
                 "target_language_code": target_lang,
-                "speaker": "meera",
-                "pitch": 0,
+                "speaker": "kavitha",
                 "pace": 1.0,
-                "loudness": 1.2,
                 "speech_sample_rate": 8000,
                 "enable_preprocessing": True,
-                "model": "bulbul:v1"
+                "model": "bulbul:v3"
             }
             
             headers = {
@@ -45,7 +42,7 @@ def speak(text, lang_code):
                 "Content-Type": "application/json"
             }
             
-            response = requests.post(url, json=payload, headers=headers, timeout=10)
+            response = requests.post(url, json=payload, headers=headers, timeout=30)
             if response.status_code == 200:
                 data = response.json()
                 if "audios" in data and len(data["audios"]) > 0:
@@ -87,8 +84,7 @@ def transcribe_audio(audio_bytes):
 
 # Page config
 st.set_page_config(
-    page_title="CG AI Sahayak 🌾",
-    page_icon="🤖",
+    page_title="CG AI Sahayak",
     layout="wide"
 )
 
@@ -116,16 +112,16 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title Header
-st.markdown('<div class="main-title">CG AI Sahayak 🌾</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">CG AI Sahayak</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-title">छत्तीसगढ़ शासन की योजनाएं अउ पर्यटन जानकारी (Govt Schemes & Tourism)</div>', unsafe_allow_html=True)
 
 # Sidebar configurations
 with st.sidebar:
-    st.header("⚙️ Settings")
+    st.header("Settings")
     
     # Check for API key
     if not os.getenv("SARVAM_API_KEY"):
-        st.warning("⚠️ SARVAM_API_KEY is missing in .env. Responses might fail or default to open-source models if configured.")
+        st.warning("SARVAM_API_KEY is missing in .env. Responses might fail or default to open-source models if configured.")
         
     st.markdown("### Language Selection")
     language_mode = st.selectbox(
@@ -140,7 +136,7 @@ with st.sidebar:
     
     st.divider()
     
-    if st.button("🗑️ Clear Chat History"):
+    if st.button("Clear Chat History"):
         st.session_state.messages = [
             {"role": "assistant", "content": "जय जोहार! मैं छत्तीसगढ़ एआई सहायक हंव। आप मन ल कइसन मदद चाही? (Hello! I am CG AI Sahayak. How can I help you today?)"}
         ]
@@ -164,7 +160,7 @@ for msg in st.session_state.messages:
 
 # User input
 text_prompt = st.chat_input("Write your question here... (English, Hindi, or Chhattisgarhi)")
-voice_prompt = st.audio_input("🎤 बोल के सवाल पूछव (Ask by speaking)")
+voice_prompt = st.audio_input("बोल के सवाल पूछव (Ask by speaking)")
 
 prompt = text_prompt
 if voice_prompt:
@@ -190,7 +186,7 @@ if prompt:
             try:
                 # Determine language logic
                 if language_mode == "Auto-Detect":
-                    # Heuristics for Chhattisgarhi because langdetect treats it as Hindi
+                    # Heuristics for Chhattisgarhi
                     cg_markers = ["कइसे", "तभे", "ला", "मन", "मिलथे", "होथे", "आय", "हे", "हंव", "करहू", "जाही", "काबर", "बर", "अउ", "जाहूं", "का"]
                     prompt_words = prompt.split()
                     if any(marker in prompt_words for marker in cg_markers) or any(marker in prompt for marker in [" मिलथे ", " होथे ", " मन ", " हे"]):

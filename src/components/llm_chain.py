@@ -41,7 +41,7 @@ def format_docs(docs):
 
 def setup_rag_chain():
     """Builds and returns the LCEL (LangChain Expression Language) Retrieval chain."""
-    retriever = get_retriever(k=5)
+    retriever = get_retriever(search_type="mmr", search_kwargs={"k": 5, "fetch_k": 20})
     llm = get_llm()
     prompt = get_rag_prompt()
     
@@ -81,11 +81,15 @@ CG_REPLACEMENTS = {
     "आवत": "आथे",
     "जिल्ला": "जिला",
     " लेल ": " बर ",
+    " सँ ": " ले ",
+    " के ले ": " बर ",
+    " देनाय हे ": " देना आय ",
     "एकटा": "एक",
     "राजे मंनि": "राजा मन",
     "बनायल": "बनाय",
     "जतय": "जिहाँ",
     "के आराधना": "ला समर्पित",
+    "कयल ": "करे ",
     
     # Advanced AI Master-Level Injections
     "मेरा ": "मोर ",

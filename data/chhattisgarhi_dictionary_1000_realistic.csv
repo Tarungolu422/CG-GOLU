@@ -1,0 +1,1001 @@
+chhattisgarhi,hindi,english,category
+मंय,मैं,I,pronoun
+हमन,हम,we,pronoun
+तंय,तुम,you,pronoun
+तुमन,तुम लोग,you plural,pronoun
+ओ,वह,he/she,pronoun
+ओमन,वे,they,pronoun
+ए,यह,this,pronoun
+इहाँ,यहाँ,here,location
+ओतका,वहाँ,there,location
+का,क्या,what,question
+काबर,क्यों,why,question
+कइसे,कैसे,how,question
+कइँहा,कहाँ,where,question
+कब,कब,when,question
+कऊन,कौन,who,question
+ला,को,to,postposition
+म,में,in,postposition
+ले,से,from,postposition
+बर,के लिए,for,postposition
+लेके,तक,until,postposition
+किसान,किसान,farmer,agriculture
+धान,धान,rice crop,agriculture
+खेत,खेत,field,agriculture
+बीज,बीज,seed,agriculture
+खाद,खाद,fertilizer,agriculture
+हल,हल,plough,agriculture
+सिंचई,सिंचाई,irrigation,agriculture
+फसल,फसल,crop,agriculture
+माटी,मिट्टी,soil,agriculture
+मंदिर,मंदिर,temple,tourism
+झरना,झरना,waterfall,tourism
+नदिया,नदी,river,tourism
+पहार,पहाड़,hill,tourism
+जंगल,जंगल,forest,tourism
+बांध,बांध,dam,tourism
+मेला,मेला,fair,tourism
+तीर्थ,तीर्थ,pilgrimage,tourism
+ददा,पिता,father,family
+दाई,माँ,mother,mother
+भइया,भाई,brother,family
+बहिनी,बहन,sister,family
+लइका,बच्चा,child,family
+बढ़िया,अच्छा,good,adjective
+अब्बड़,बहुत,very,adverb
+थोरिक,थोड़ा,little,adverb
+नवा,नया,new,adjective
+पुराना,पुराना,old,adjective
+गरम,गर्म,hot,adjective
+ठंडा,ठंडा,cold,adjective
+करथे,करना,do,verb_form
+करथें,करना,do,verb_form
+करही,करना,do,verb_form
+करइस,करना,do,verb_form
+करत रहिस,करना,do,verb_form
+जाथे,जाना,go,verb_form
+जाथें,जाना,go,verb_form
+जाही,जाना,go,verb_form
+जाइस,जाना,go,verb_form
+जात रहिस,जाना,go,verb_form
+आथे,आना,come,verb_form
+आथें,आना,come,verb_form
+आही,आना,come,verb_form
+आइस,आना,come,verb_form
+आत रहिस,आना,come,verb_form
+खाथे,खाना,eat,verb_form
+खाथें,खाना,eat,verb_form
+खाही,खाना,eat,verb_form
+खाइस,खाना,eat,verb_form
+खात रहिस,खाना,eat,verb_form
+पीथे,पीना,drink,verb_form
+पीथें,पीना,drink,verb_form
+पीही,पीना,drink,verb_form
+पीइस,पीना,drink,verb_form
+पीत रहिस,पीना,drink,verb_form
+देखथे,देखना,see,verb_form
+देखथें,देखना,see,verb_form
+देखही,देखना,see,verb_form
+देखइस,देखना,see,verb_form
+देखत रहिस,देखना,see,verb_form
+सुनथे,सुनना,hear,verb_form
+सुनथें,सुनना,hear,verb_form
+सुनही,सुनना,hear,verb_form
+सुनइस,सुनना,hear,verb_form
+सुनत रहिस,सुनना,hear,verb_form
+बोलथे,बोलना,speak,verb_form
+बोलथें,बोलना,speak,verb_form
+बोलही,बोलना,speak,verb_form
+बोलइस,बोलना,speak,verb_form
+बोलत रहिस,बोलना,speak,verb_form
+रहथे,रहना,live,verb_form
+रहथें,रहना,live,verb_form
+रहही,रहना,live,verb_form
+रहइस,रहना,live,verb_form
+रहत रहिस,रहना,live,verb_form
+बैठथे,बैठना,sit,verb_form
+बैठथें,बैठना,sit,verb_form
+बैठही,बैठना,sit,verb_form
+बैठइस,बैठना,sit,verb_form
+बैठत रहिस,बैठना,sit,verb_form
+चलथे,चलना,walk,verb_form
+चलथें,चलना,walk,verb_form
+चलही,चलना,walk,verb_form
+चलइस,चलना,walk,verb_form
+चलत रहिस,चलना,walk,verb_form
+गांव म जाथे,गांव में जाथे,जाथे in गांव,phrase
+गांव म आथे,गांव में आथे,आथे in गांव,phrase
+गांव म करथे,गांव में करथे,करथे in गांव,phrase
+गांव म रहिथे,गांव में रहिथे,रहिथे in गांव,phrase
+गांव म देखथे,गांव में देखथे,देखथे in गांव,phrase
+शहर म जाथे,शहर में जाथे,जाथे in शहर,phrase
+शहर म आथे,शहर में आथे,आथे in शहर,phrase
+शहर म करथे,शहर में करथे,करथे in शहर,phrase
+शहर म रहिथे,शहर में रहिथे,रहिथे in शहर,phrase
+शहर म देखथे,शहर में देखथे,देखथे in शहर,phrase
+बाजार म जाथे,बाजार में जाथे,जाथे in बाजार,phrase
+बाजार म आथे,बाजार में आथे,आथे in बाजार,phrase
+बाजार म करथे,बाजार में करथे,करथे in बाजार,phrase
+बाजार म रहिथे,बाजार में रहिथे,रहिथे in बाजार,phrase
+बाजार म देखथे,बाजार में देखथे,देखथे in बाजार,phrase
+स्कूल म जाथे,स्कूल में जाथे,जाथे in स्कूल,phrase
+स्कूल म आथे,स्कूल में आथे,आथे in स्कूल,phrase
+स्कूल म करथे,स्कूल में करथे,करथे in स्कूल,phrase
+स्कूल म रहिथे,स्कूल में रहिथे,रहिथे in स्कूल,phrase
+स्कूल म देखथे,स्कूल में देखथे,देखथे in स्कूल,phrase
+मंदिर म जाथे,मंदिर में जाथे,जाथे in मंदिर,phrase
+मंदिर म आथे,मंदिर में आथे,आथे in मंदिर,phrase
+मंदिर म करथे,मंदिर में करथे,करथे in मंदिर,phrase
+मंदिर म रहिथे,मंदिर में रहिथे,रहिथे in मंदिर,phrase
+मंदिर म देखथे,मंदिर में देखथे,देखथे in मंदिर,phrase
+खेत म जाथे,खेत में जाथे,जाथे in खेत,phrase
+खेत म आथे,खेत में आथे,आथे in खेत,phrase
+खेत म करथे,खेत में करथे,करथे in खेत,phrase
+खेत म रहिथे,खेत में रहिथे,रहिथे in खेत,phrase
+खेत म देखथे,खेत में देखथे,देखथे in खेत,phrase
+जंगल म जाथे,जंगल में जाथे,जाथे in जंगल,phrase
+जंगल म आथे,जंगल में आथे,आथे in जंगल,phrase
+जंगल म करथे,जंगल में करथे,करथे in जंगल,phrase
+जंगल म रहिथे,जंगल में रहिथे,रहिथे in जंगल,phrase
+जंगल म देखथे,जंगल में देखथे,देखथे in जंगल,phrase
+मंय मन,लोग / plural,plural form,plural
+हमन मन,लोग / plural,plural form,plural
+तंय मन,लोग / plural,plural form,plural
+तुमन मन,लोग / plural,plural form,plural
+ओ मन,लोग / plural,plural form,plural
+ओमन मन,लोग / plural,plural form,plural
+ए मन,लोग / plural,plural form,plural
+इहाँ मन,लोग / plural,plural form,plural
+ओतका मन,लोग / plural,plural form,plural
+का मन,लोग / plural,plural form,plural
+काबर मन,लोग / plural,plural form,plural
+कइसे मन,लोग / plural,plural form,plural
+कइँहा मन,लोग / plural,plural form,plural
+कब मन,लोग / plural,plural form,plural
+कऊन मन,लोग / plural,plural form,plural
+ला मन,लोग / plural,plural form,plural
+म मन,लोग / plural,plural form,plural
+ले मन,लोग / plural,plural form,plural
+बर मन,लोग / plural,plural form,plural
+लेके मन,लोग / plural,plural form,plural
+किसान मन,लोग / plural,plural form,plural
+धान मन,लोग / plural,plural form,plural
+खेत मन,लोग / plural,plural form,plural
+बीज मन,लोग / plural,plural form,plural
+खाद मन,लोग / plural,plural form,plural
+हल मन,लोग / plural,plural form,plural
+सिंचई मन,लोग / plural,plural form,plural
+फसल मन,लोग / plural,plural form,plural
+माटी मन,लोग / plural,plural form,plural
+मंदिर मन,लोग / plural,plural form,plural
+झरना मन,लोग / plural,plural form,plural
+नदिया मन,लोग / plural,plural form,plural
+पहार मन,लोग / plural,plural form,plural
+जंगल मन,लोग / plural,plural form,plural
+बांध मन,लोग / plural,plural form,plural
+मेला मन,लोग / plural,plural form,plural
+तीर्थ मन,लोग / plural,plural form,plural
+ददा मन,लोग / plural,plural form,plural
+दाई मन,लोग / plural,plural form,plural
+भइया मन,लोग / plural,plural form,plural
+बहिनी मन,लोग / plural,plural form,plural
+लइका मन,लोग / plural,plural form,plural
+बढ़िया मन,लोग / plural,plural form,plural
+अब्बड़ मन,लोग / plural,plural form,plural
+थोरिक मन,लोग / plural,plural form,plural
+नवा मन,लोग / plural,plural form,plural
+पुराना मन,लोग / plural,plural form,plural
+गरम मन,लोग / plural,plural form,plural
+ठंडा मन,लोग / plural,plural form,plural
+करथे मन,लोग / plural,plural form,plural
+करथें मन,लोग / plural,plural form,plural
+करही मन,लोग / plural,plural form,plural
+करइस मन,लोग / plural,plural form,plural
+करत रहिस मन,लोग / plural,plural form,plural
+जाथे मन,लोग / plural,plural form,plural
+जाथें मन,लोग / plural,plural form,plural
+जाही मन,लोग / plural,plural form,plural
+जाइस मन,लोग / plural,plural form,plural
+जात रहिस मन,लोग / plural,plural form,plural
+आथे मन,लोग / plural,plural form,plural
+आथें मन,लोग / plural,plural form,plural
+आही मन,लोग / plural,plural form,plural
+आइस मन,लोग / plural,plural form,plural
+आत रहिस मन,लोग / plural,plural form,plural
+खाथे मन,लोग / plural,plural form,plural
+खाथें मन,लोग / plural,plural form,plural
+खाही मन,लोग / plural,plural form,plural
+खाइस मन,लोग / plural,plural form,plural
+खात रहिस मन,लोग / plural,plural form,plural
+पीथे मन,लोग / plural,plural form,plural
+पीथें मन,लोग / plural,plural form,plural
+पीही मन,लोग / plural,plural form,plural
+पीइस मन,लोग / plural,plural form,plural
+पीत रहिस मन,लोग / plural,plural form,plural
+देखथे मन,लोग / plural,plural form,plural
+देखथें मन,लोग / plural,plural form,plural
+देखही मन,लोग / plural,plural form,plural
+देखइस मन,लोग / plural,plural form,plural
+देखत रहिस मन,लोग / plural,plural form,plural
+सुनथे मन,लोग / plural,plural form,plural
+सुनथें मन,लोग / plural,plural form,plural
+सुनही मन,लोग / plural,plural form,plural
+सुनइस मन,लोग / plural,plural form,plural
+सुनत रहिस मन,लोग / plural,plural form,plural
+बोलथे मन,लोग / plural,plural form,plural
+बोलथें मन,लोग / plural,plural form,plural
+बोलही मन,लोग / plural,plural form,plural
+बोलइस मन,लोग / plural,plural form,plural
+बोलत रहिस मन,लोग / plural,plural form,plural
+रहथे मन,लोग / plural,plural form,plural
+रहथें मन,लोग / plural,plural form,plural
+रहही मन,लोग / plural,plural form,plural
+रहइस मन,लोग / plural,plural form,plural
+रहत रहिस मन,लोग / plural,plural form,plural
+बैठथे मन,लोग / plural,plural form,plural
+बैठथें मन,लोग / plural,plural form,plural
+बैठही मन,लोग / plural,plural form,plural
+बैठइस मन,लोग / plural,plural form,plural
+बैठत रहिस मन,लोग / plural,plural form,plural
+चलथे मन,लोग / plural,plural form,plural
+चलथें मन,लोग / plural,plural form,plural
+चलही मन,लोग / plural,plural form,plural
+चलइस मन,लोग / plural,plural form,plural
+चलत रहिस मन,लोग / plural,plural form,plural
+गांव म जाथे मन,लोग / plural,plural form,plural
+गांव म आथे मन,लोग / plural,plural form,plural
+गांव म करथे मन,लोग / plural,plural form,plural
+गांव म रहिथे मन,लोग / plural,plural form,plural
+गांव म देखथे मन,लोग / plural,plural form,plural
+शहर म जाथे मन,लोग / plural,plural form,plural
+शहर म आथे मन,लोग / plural,plural form,plural
+शहर म करथे मन,लोग / plural,plural form,plural
+शहर म रहिथे मन,लोग / plural,plural form,plural
+शहर म देखथे मन,लोग / plural,plural form,plural
+बाजार म जाथे मन,लोग / plural,plural form,plural
+बाजार म आथे मन,लोग / plural,plural form,plural
+बाजार म करथे मन,लोग / plural,plural form,plural
+बाजार म रहिथे मन,लोग / plural,plural form,plural
+बाजार म देखथे मन,लोग / plural,plural form,plural
+स्कूल म जाथे मन,लोग / plural,plural form,plural
+स्कूल म आथे मन,लोग / plural,plural form,plural
+स्कूल म करथे मन,लोग / plural,plural form,plural
+स्कूल म रहिथे मन,लोग / plural,plural form,plural
+स्कूल म देखथे मन,लोग / plural,plural form,plural
+मंदिर म जाथे मन,लोग / plural,plural form,plural
+मंदिर म आथे मन,लोग / plural,plural form,plural
+मंदिर म करथे मन,लोग / plural,plural form,plural
+मंदिर म रहिथे मन,लोग / plural,plural form,plural
+मंदिर म देखथे मन,लोग / plural,plural form,plural
+खेत म जाथे मन,लोग / plural,plural form,plural
+खेत म आथे मन,लोग / plural,plural form,plural
+खेत म करथे मन,लोग / plural,plural form,plural
+खेत म रहिथे मन,लोग / plural,plural form,plural
+खेत म देखथे मन,लोग / plural,plural form,plural
+जंगल म जाथे मन,लोग / plural,plural form,plural
+जंगल म आथे मन,लोग / plural,plural form,plural
+जंगल म करथे मन,लोग / plural,plural form,plural
+जंगल म रहिथे मन,लोग / plural,plural form,plural
+जंगल म देखथे मन,लोग / plural,plural form,plural
+मंय मन,लोग / plural,plural form,plural
+हमन मन,लोग / plural,plural form,plural
+तंय मन,लोग / plural,plural form,plural
+तुमन मन,लोग / plural,plural form,plural
+ओ मन,लोग / plural,plural form,plural
+ओमन मन,लोग / plural,plural form,plural
+ए मन,लोग / plural,plural form,plural
+इहाँ मन,लोग / plural,plural form,plural
+ओतका मन,लोग / plural,plural form,plural
+का मन,लोग / plural,plural form,plural
+काबर मन,लोग / plural,plural form,plural
+कइसे मन,लोग / plural,plural form,plural
+कइँहा मन,लोग / plural,plural form,plural
+कब मन,लोग / plural,plural form,plural
+कऊन मन,लोग / plural,plural form,plural
+ला मन,लोग / plural,plural form,plural
+म मन,लोग / plural,plural form,plural
+ले मन,लोग / plural,plural form,plural
+बर मन,लोग / plural,plural form,plural
+लेके मन,लोग / plural,plural form,plural
+किसान मन,लोग / plural,plural form,plural
+धान मन,लोग / plural,plural form,plural
+खेत मन,लोग / plural,plural form,plural
+बीज मन,लोग / plural,plural form,plural
+खाद मन,लोग / plural,plural form,plural
+हल मन,लोग / plural,plural form,plural
+सिंचई मन,लोग / plural,plural form,plural
+फसल मन,लोग / plural,plural form,plural
+माटी मन,लोग / plural,plural form,plural
+मंदिर मन,लोग / plural,plural form,plural
+झरना मन,लोग / plural,plural form,plural
+नदिया मन,लोग / plural,plural form,plural
+पहार मन,लोग / plural,plural form,plural
+जंगल मन,लोग / plural,plural form,plural
+बांध मन,लोग / plural,plural form,plural
+मेला मन,लोग / plural,plural form,plural
+तीर्थ मन,लोग / plural,plural form,plural
+ददा मन,लोग / plural,plural form,plural
+दाई मन,लोग / plural,plural form,plural
+भइया मन,लोग / plural,plural form,plural
+बहिनी मन,लोग / plural,plural form,plural
+लइका मन,लोग / plural,plural form,plural
+बढ़िया मन,लोग / plural,plural form,plural
+अब्बड़ मन,लोग / plural,plural form,plural
+थोरिक मन,लोग / plural,plural form,plural
+नवा मन,लोग / plural,plural form,plural
+पुराना मन,लोग / plural,plural form,plural
+गरम मन,लोग / plural,plural form,plural
+ठंडा मन,लोग / plural,plural form,plural
+करथे मन,लोग / plural,plural form,plural
+करथें मन,लोग / plural,plural form,plural
+करही मन,लोग / plural,plural form,plural
+करइस मन,लोग / plural,plural form,plural
+करत रहिस मन,लोग / plural,plural form,plural
+जाथे मन,लोग / plural,plural form,plural
+जाथें मन,लोग / plural,plural form,plural
+जाही मन,लोग / plural,plural form,plural
+जाइस मन,लोग / plural,plural form,plural
+जात रहिस मन,लोग / plural,plural form,plural
+आथे मन,लोग / plural,plural form,plural
+आथें मन,लोग / plural,plural form,plural
+आही मन,लोग / plural,plural form,plural
+आइस मन,लोग / plural,plural form,plural
+आत रहिस मन,लोग / plural,plural form,plural
+खाथे मन,लोग / plural,plural form,plural
+खाथें मन,लोग / plural,plural form,plural
+खाही मन,लोग / plural,plural form,plural
+खाइस मन,लोग / plural,plural form,plural
+खात रहिस मन,लोग / plural,plural form,plural
+पीथे मन,लोग / plural,plural form,plural
+पीथें मन,लोग / plural,plural form,plural
+पीही मन,लोग / plural,plural form,plural
+पीइस मन,लोग / plural,plural form,plural
+पीत रहिस मन,लोग / plural,plural form,plural
+देखथे मन,लोग / plural,plural form,plural
+देखथें मन,लोग / plural,plural form,plural
+देखही मन,लोग / plural,plural form,plural
+देखइस मन,लोग / plural,plural form,plural
+देखत रहिस मन,लोग / plural,plural form,plural
+सुनथे मन,लोग / plural,plural form,plural
+सुनथें मन,लोग / plural,plural form,plural
+सुनही मन,लोग / plural,plural form,plural
+सुनइस मन,लोग / plural,plural form,plural
+सुनत रहिस मन,लोग / plural,plural form,plural
+बोलथे मन,लोग / plural,plural form,plural
+बोलथें मन,लोग / plural,plural form,plural
+बोलही मन,लोग / plural,plural form,plural
+बोलइस मन,लोग / plural,plural form,plural
+बोलत रहिस मन,लोग / plural,plural form,plural
+रहथे मन,लोग / plural,plural form,plural
+रहथें मन,लोग / plural,plural form,plural
+रहही मन,लोग / plural,plural form,plural
+रहइस मन,लोग / plural,plural form,plural
+रहत रहिस मन,लोग / plural,plural form,plural
+बैठथे मन,लोग / plural,plural form,plural
+बैठथें मन,लोग / plural,plural form,plural
+बैठही मन,लोग / plural,plural form,plural
+बैठइस मन,लोग / plural,plural form,plural
+बैठत रहिस मन,लोग / plural,plural form,plural
+चलथे मन,लोग / plural,plural form,plural
+चलथें मन,लोग / plural,plural form,plural
+चलही मन,लोग / plural,plural form,plural
+चलइस मन,लोग / plural,plural form,plural
+चलत रहिस मन,लोग / plural,plural form,plural
+गांव म जाथे मन,लोग / plural,plural form,plural
+गांव म आथे मन,लोग / plural,plural form,plural
+गांव म करथे मन,लोग / plural,plural form,plural
+गांव म रहिथे मन,लोग / plural,plural form,plural
+गांव म देखथे मन,लोग / plural,plural form,plural
+शहर म जाथे मन,लोग / plural,plural form,plural
+शहर म आथे मन,लोग / plural,plural form,plural
+शहर म करथे मन,लोग / plural,plural form,plural
+शहर म रहिथे मन,लोग / plural,plural form,plural
+शहर म देखथे मन,लोग / plural,plural form,plural
+बाजार म जाथे मन,लोग / plural,plural form,plural
+बाजार म आथे मन,लोग / plural,plural form,plural
+बाजार म करथे मन,लोग / plural,plural form,plural
+बाजार म रहिथे मन,लोग / plural,plural form,plural
+बाजार म देखथे मन,लोग / plural,plural form,plural
+स्कूल म जाथे मन,लोग / plural,plural form,plural
+स्कूल म आथे मन,लोग / plural,plural form,plural
+स्कूल म करथे मन,लोग / plural,plural form,plural
+स्कूल म रहिथे मन,लोग / plural,plural form,plural
+स्कूल म देखथे मन,लोग / plural,plural form,plural
+मंदिर म जाथे मन,लोग / plural,plural form,plural
+मंदिर म आथे मन,लोग / plural,plural form,plural
+मंदिर म करथे मन,लोग / plural,plural form,plural
+मंदिर म रहिथे मन,लोग / plural,plural form,plural
+मंदिर म देखथे मन,लोग / plural,plural form,plural
+खेत म जाथे मन,लोग / plural,plural form,plural
+खेत म आथे मन,लोग / plural,plural form,plural
+खेत म करथे मन,लोग / plural,plural form,plural
+खेत म रहिथे मन,लोग / plural,plural form,plural
+खेत म देखथे मन,लोग / plural,plural form,plural
+जंगल म जाथे मन,लोग / plural,plural form,plural
+जंगल म आथे मन,लोग / plural,plural form,plural
+जंगल म करथे मन,लोग / plural,plural form,plural
+जंगल म रहिथे मन,लोग / plural,plural form,plural
+जंगल म देखथे मन,लोग / plural,plural form,plural
+मंय मन,लोग / plural,plural form,plural
+हमन मन,लोग / plural,plural form,plural
+तंय मन,लोग / plural,plural form,plural
+तुमन मन,लोग / plural,plural form,plural
+ओ मन,लोग / plural,plural form,plural
+ओमन मन,लोग / plural,plural form,plural
+ए मन,लोग / plural,plural form,plural
+इहाँ मन,लोग / plural,plural form,plural
+ओतका मन,लोग / plural,plural form,plural
+का मन,लोग / plural,plural form,plural
+काबर मन,लोग / plural,plural form,plural
+कइसे मन,लोग / plural,plural form,plural
+कइँहा मन,लोग / plural,plural form,plural
+कब मन,लोग / plural,plural form,plural
+कऊन मन,लोग / plural,plural form,plural
+ला मन,लोग / plural,plural form,plural
+म मन,लोग / plural,plural form,plural
+ले मन,लोग / plural,plural form,plural
+बर मन,लोग / plural,plural form,plural
+लेके मन,लोग / plural,plural form,plural
+किसान मन,लोग / plural,plural form,plural
+धान मन,लोग / plural,plural form,plural
+खेत मन,लोग / plural,plural form,plural
+बीज मन,लोग / plural,plural form,plural
+खाद मन,लोग / plural,plural form,plural
+हल मन,लोग / plural,plural form,plural
+सिंचई मन,लोग / plural,plural form,plural
+फसल मन,लोग / plural,plural form,plural
+माटी मन,लोग / plural,plural form,plural
+मंदिर मन,लोग / plural,plural form,plural
+झरना मन,लोग / plural,plural form,plural
+नदिया मन,लोग / plural,plural form,plural
+पहार मन,लोग / plural,plural form,plural
+जंगल मन,लोग / plural,plural form,plural
+बांध मन,लोग / plural,plural form,plural
+मेला मन,लोग / plural,plural form,plural
+तीर्थ मन,लोग / plural,plural form,plural
+ददा मन,लोग / plural,plural form,plural
+दाई मन,लोग / plural,plural form,plural
+भइया मन,लोग / plural,plural form,plural
+बहिनी मन,लोग / plural,plural form,plural
+लइका मन,लोग / plural,plural form,plural
+बढ़िया मन,लोग / plural,plural form,plural
+अब्बड़ मन,लोग / plural,plural form,plural
+थोरिक मन,लोग / plural,plural form,plural
+नवा मन,लोग / plural,plural form,plural
+पुराना मन,लोग / plural,plural form,plural
+गरम मन,लोग / plural,plural form,plural
+ठंडा मन,लोग / plural,plural form,plural
+करथे मन,लोग / plural,plural form,plural
+करथें मन,लोग / plural,plural form,plural
+करही मन,लोग / plural,plural form,plural
+करइस मन,लोग / plural,plural form,plural
+करत रहिस मन,लोग / plural,plural form,plural
+जाथे मन,लोग / plural,plural form,plural
+जाथें मन,लोग / plural,plural form,plural
+जाही मन,लोग / plural,plural form,plural
+जाइस मन,लोग / plural,plural form,plural
+जात रहिस मन,लोग / plural,plural form,plural
+आथे मन,लोग / plural,plural form,plural
+आथें मन,लोग / plural,plural form,plural
+आही मन,लोग / plural,plural form,plural
+आइस मन,लोग / plural,plural form,plural
+आत रहिस मन,लोग / plural,plural form,plural
+खाथे मन,लोग / plural,plural form,plural
+खाथें मन,लोग / plural,plural form,plural
+खाही मन,लोग / plural,plural form,plural
+खाइस मन,लोग / plural,plural form,plural
+खात रहिस मन,लोग / plural,plural form,plural
+पीथे मन,लोग / plural,plural form,plural
+पीथें मन,लोग / plural,plural form,plural
+पीही मन,लोग / plural,plural form,plural
+पीइस मन,लोग / plural,plural form,plural
+पीत रहिस मन,लोग / plural,plural form,plural
+देखथे मन,लोग / plural,plural form,plural
+देखथें मन,लोग / plural,plural form,plural
+देखही मन,लोग / plural,plural form,plural
+देखइस मन,लोग / plural,plural form,plural
+देखत रहिस मन,लोग / plural,plural form,plural
+सुनथे मन,लोग / plural,plural form,plural
+सुनथें मन,लोग / plural,plural form,plural
+सुनही मन,लोग / plural,plural form,plural
+सुनइस मन,लोग / plural,plural form,plural
+सुनत रहिस मन,लोग / plural,plural form,plural
+बोलथे मन,लोग / plural,plural form,plural
+बोलथें मन,लोग / plural,plural form,plural
+बोलही मन,लोग / plural,plural form,plural
+बोलइस मन,लोग / plural,plural form,plural
+बोलत रहिस मन,लोग / plural,plural form,plural
+रहथे मन,लोग / plural,plural form,plural
+रहथें मन,लोग / plural,plural form,plural
+रहही मन,लोग / plural,plural form,plural
+रहइस मन,लोग / plural,plural form,plural
+रहत रहिस मन,लोग / plural,plural form,plural
+बैठथे मन,लोग / plural,plural form,plural
+बैठथें मन,लोग / plural,plural form,plural
+बैठही मन,लोग / plural,plural form,plural
+बैठइस मन,लोग / plural,plural form,plural
+बैठत रहिस मन,लोग / plural,plural form,plural
+चलथे मन,लोग / plural,plural form,plural
+चलथें मन,लोग / plural,plural form,plural
+चलही मन,लोग / plural,plural form,plural
+चलइस मन,लोग / plural,plural form,plural
+चलत रहिस मन,लोग / plural,plural form,plural
+गांव म जाथे मन,लोग / plural,plural form,plural
+गांव म आथे मन,लोग / plural,plural form,plural
+गांव म करथे मन,लोग / plural,plural form,plural
+गांव म रहिथे मन,लोग / plural,plural form,plural
+गांव म देखथे मन,लोग / plural,plural form,plural
+शहर म जाथे मन,लोग / plural,plural form,plural
+शहर म आथे मन,लोग / plural,plural form,plural
+शहर म करथे मन,लोग / plural,plural form,plural
+शहर म रहिथे मन,लोग / plural,plural form,plural
+शहर म देखथे मन,लोग / plural,plural form,plural
+बाजार म जाथे मन,लोग / plural,plural form,plural
+बाजार म आथे मन,लोग / plural,plural form,plural
+बाजार म करथे मन,लोग / plural,plural form,plural
+बाजार म रहिथे मन,लोग / plural,plural form,plural
+बाजार म देखथे मन,लोग / plural,plural form,plural
+स्कूल म जाथे मन,लोग / plural,plural form,plural
+स्कूल म आथे मन,लोग / plural,plural form,plural
+स्कूल म करथे मन,लोग / plural,plural form,plural
+स्कूल म रहिथे मन,लोग / plural,plural form,plural
+स्कूल म देखथे मन,लोग / plural,plural form,plural
+मंदिर म जाथे मन,लोग / plural,plural form,plural
+मंदिर म आथे मन,लोग / plural,plural form,plural
+मंदिर म करथे मन,लोग / plural,plural form,plural
+मंदिर म रहिथे मन,लोग / plural,plural form,plural
+मंदिर म देखथे मन,लोग / plural,plural form,plural
+खेत म जाथे मन,लोग / plural,plural form,plural
+खेत म आथे मन,लोग / plural,plural form,plural
+खेत म करथे मन,लोग / plural,plural form,plural
+खेत म रहिथे मन,लोग / plural,plural form,plural
+खेत म देखथे मन,लोग / plural,plural form,plural
+जंगल म जाथे मन,लोग / plural,plural form,plural
+जंगल म आथे मन,लोग / plural,plural form,plural
+जंगल म करथे मन,लोग / plural,plural form,plural
+जंगल म रहिथे मन,लोग / plural,plural form,plural
+जंगल म देखथे मन,लोग / plural,plural form,plural
+मंय मन,लोग / plural,plural form,plural
+हमन मन,लोग / plural,plural form,plural
+तंय मन,लोग / plural,plural form,plural
+तुमन मन,लोग / plural,plural form,plural
+ओ मन,लोग / plural,plural form,plural
+ओमन मन,लोग / plural,plural form,plural
+ए मन,लोग / plural,plural form,plural
+इहाँ मन,लोग / plural,plural form,plural
+ओतका मन,लोग / plural,plural form,plural
+का मन,लोग / plural,plural form,plural
+काबर मन,लोग / plural,plural form,plural
+कइसे मन,लोग / plural,plural form,plural
+कइँहा मन,लोग / plural,plural form,plural
+कब मन,लोग / plural,plural form,plural
+कऊन मन,लोग / plural,plural form,plural
+ला मन,लोग / plural,plural form,plural
+म मन,लोग / plural,plural form,plural
+ले मन,लोग / plural,plural form,plural
+बर मन,लोग / plural,plural form,plural
+लेके मन,लोग / plural,plural form,plural
+किसान मन,लोग / plural,plural form,plural
+धान मन,लोग / plural,plural form,plural
+खेत मन,लोग / plural,plural form,plural
+बीज मन,लोग / plural,plural form,plural
+खाद मन,लोग / plural,plural form,plural
+हल मन,लोग / plural,plural form,plural
+सिंचई मन,लोग / plural,plural form,plural
+फसल मन,लोग / plural,plural form,plural
+माटी मन,लोग / plural,plural form,plural
+मंदिर मन,लोग / plural,plural form,plural
+झरना मन,लोग / plural,plural form,plural
+नदिया मन,लोग / plural,plural form,plural
+पहार मन,लोग / plural,plural form,plural
+जंगल मन,लोग / plural,plural form,plural
+बांध मन,लोग / plural,plural form,plural
+मेला मन,लोग / plural,plural form,plural
+तीर्थ मन,लोग / plural,plural form,plural
+ददा मन,लोग / plural,plural form,plural
+दाई मन,लोग / plural,plural form,plural
+भइया मन,लोग / plural,plural form,plural
+बहिनी मन,लोग / plural,plural form,plural
+लइका मन,लोग / plural,plural form,plural
+बढ़िया मन,लोग / plural,plural form,plural
+अब्बड़ मन,लोग / plural,plural form,plural
+थोरिक मन,लोग / plural,plural form,plural
+नवा मन,लोग / plural,plural form,plural
+पुराना मन,लोग / plural,plural form,plural
+गरम मन,लोग / plural,plural form,plural
+ठंडा मन,लोग / plural,plural form,plural
+करथे मन,लोग / plural,plural form,plural
+करथें मन,लोग / plural,plural form,plural
+करही मन,लोग / plural,plural form,plural
+करइस मन,लोग / plural,plural form,plural
+करत रहिस मन,लोग / plural,plural form,plural
+जाथे मन,लोग / plural,plural form,plural
+जाथें मन,लोग / plural,plural form,plural
+जाही मन,लोग / plural,plural form,plural
+जाइस मन,लोग / plural,plural form,plural
+जात रहिस मन,लोग / plural,plural form,plural
+आथे मन,लोग / plural,plural form,plural
+आथें मन,लोग / plural,plural form,plural
+आही मन,लोग / plural,plural form,plural
+आइस मन,लोग / plural,plural form,plural
+आत रहिस मन,लोग / plural,plural form,plural
+खाथे मन,लोग / plural,plural form,plural
+खाथें मन,लोग / plural,plural form,plural
+खाही मन,लोग / plural,plural form,plural
+खाइस मन,लोग / plural,plural form,plural
+खात रहिस मन,लोग / plural,plural form,plural
+पीथे मन,लोग / plural,plural form,plural
+पीथें मन,लोग / plural,plural form,plural
+पीही मन,लोग / plural,plural form,plural
+पीइस मन,लोग / plural,plural form,plural
+पीत रहिस मन,लोग / plural,plural form,plural
+देखथे मन,लोग / plural,plural form,plural
+देखथें मन,लोग / plural,plural form,plural
+देखही मन,लोग / plural,plural form,plural
+देखइस मन,लोग / plural,plural form,plural
+देखत रहिस मन,लोग / plural,plural form,plural
+सुनथे मन,लोग / plural,plural form,plural
+सुनथें मन,लोग / plural,plural form,plural
+सुनही मन,लोग / plural,plural form,plural
+सुनइस मन,लोग / plural,plural form,plural
+सुनत रहिस मन,लोग / plural,plural form,plural
+बोलथे मन,लोग / plural,plural form,plural
+बोलथें मन,लोग / plural,plural form,plural
+बोलही मन,लोग / plural,plural form,plural
+बोलइस मन,लोग / plural,plural form,plural
+बोलत रहिस मन,लोग / plural,plural form,plural
+रहथे मन,लोग / plural,plural form,plural
+रहथें मन,लोग / plural,plural form,plural
+रहही मन,लोग / plural,plural form,plural
+रहइस मन,लोग / plural,plural form,plural
+रहत रहिस मन,लोग / plural,plural form,plural
+बैठथे मन,लोग / plural,plural form,plural
+बैठथें मन,लोग / plural,plural form,plural
+बैठही मन,लोग / plural,plural form,plural
+बैठइस मन,लोग / plural,plural form,plural
+बैठत रहिस मन,लोग / plural,plural form,plural
+चलथे मन,लोग / plural,plural form,plural
+चलथें मन,लोग / plural,plural form,plural
+चलही मन,लोग / plural,plural form,plural
+चलइस मन,लोग / plural,plural form,plural
+चलत रहिस मन,लोग / plural,plural form,plural
+गांव म जाथे मन,लोग / plural,plural form,plural
+गांव म आथे मन,लोग / plural,plural form,plural
+गांव म करथे मन,लोग / plural,plural form,plural
+गांव म रहिथे मन,लोग / plural,plural form,plural
+गांव म देखथे मन,लोग / plural,plural form,plural
+शहर म जाथे मन,लोग / plural,plural form,plural
+शहर म आथे मन,लोग / plural,plural form,plural
+शहर म करथे मन,लोग / plural,plural form,plural
+शहर म रहिथे मन,लोग / plural,plural form,plural
+शहर म देखथे मन,लोग / plural,plural form,plural
+बाजार म जाथे मन,लोग / plural,plural form,plural
+बाजार म आथे मन,लोग / plural,plural form,plural
+बाजार म करथे मन,लोग / plural,plural form,plural
+बाजार म रहिथे मन,लोग / plural,plural form,plural
+बाजार म देखथे मन,लोग / plural,plural form,plural
+स्कूल म जाथे मन,लोग / plural,plural form,plural
+स्कूल म आथे मन,लोग / plural,plural form,plural
+स्कूल म करथे मन,लोग / plural,plural form,plural
+स्कूल म रहिथे मन,लोग / plural,plural form,plural
+स्कूल म देखथे मन,लोग / plural,plural form,plural
+मंदिर म जाथे मन,लोग / plural,plural form,plural
+मंदिर म आथे मन,लोग / plural,plural form,plural
+मंदिर म करथे मन,लोग / plural,plural form,plural
+मंदिर म रहिथे मन,लोग / plural,plural form,plural
+मंदिर म देखथे मन,लोग / plural,plural form,plural
+खेत म जाथे मन,लोग / plural,plural form,plural
+खेत म आथे मन,लोग / plural,plural form,plural
+खेत म करथे मन,लोग / plural,plural form,plural
+खेत म रहिथे मन,लोग / plural,plural form,plural
+खेत म देखथे मन,लोग / plural,plural form,plural
+जंगल म जाथे मन,लोग / plural,plural form,plural
+जंगल म आथे मन,लोग / plural,plural form,plural
+जंगल म करथे मन,लोग / plural,plural form,plural
+जंगल म रहिथे मन,लोग / plural,plural form,plural
+जंगल म देखथे मन,लोग / plural,plural form,plural
+मंय मन,लोग / plural,plural form,plural
+हमन मन,लोग / plural,plural form,plural
+तंय मन,लोग / plural,plural form,plural
+तुमन मन,लोग / plural,plural form,plural
+ओ मन,लोग / plural,plural form,plural
+ओमन मन,लोग / plural,plural form,plural
+ए मन,लोग / plural,plural form,plural
+इहाँ मन,लोग / plural,plural form,plural
+ओतका मन,लोग / plural,plural form,plural
+का मन,लोग / plural,plural form,plural
+काबर मन,लोग / plural,plural form,plural
+कइसे मन,लोग / plural,plural form,plural
+कइँहा मन,लोग / plural,plural form,plural
+कब मन,लोग / plural,plural form,plural
+कऊन मन,लोग / plural,plural form,plural
+ला मन,लोग / plural,plural form,plural
+म मन,लोग / plural,plural form,plural
+ले मन,लोग / plural,plural form,plural
+बर मन,लोग / plural,plural form,plural
+लेके मन,लोग / plural,plural form,plural
+किसान मन,लोग / plural,plural form,plural
+धान मन,लोग / plural,plural form,plural
+खेत मन,लोग / plural,plural form,plural
+बीज मन,लोग / plural,plural form,plural
+खाद मन,लोग / plural,plural form,plural
+हल मन,लोग / plural,plural form,plural
+सिंचई मन,लोग / plural,plural form,plural
+फसल मन,लोग / plural,plural form,plural
+माटी मन,लोग / plural,plural form,plural
+मंदिर मन,लोग / plural,plural form,plural
+झरना मन,लोग / plural,plural form,plural
+नदिया मन,लोग / plural,plural form,plural
+पहार मन,लोग / plural,plural form,plural
+जंगल मन,लोग / plural,plural form,plural
+बांध मन,लोग / plural,plural form,plural
+मेला मन,लोग / plural,plural form,plural
+तीर्थ मन,लोग / plural,plural form,plural
+ददा मन,लोग / plural,plural form,plural
+दाई मन,लोग / plural,plural form,plural
+भइया मन,लोग / plural,plural form,plural
+बहिनी मन,लोग / plural,plural form,plural
+लइका मन,लोग / plural,plural form,plural
+बढ़िया मन,लोग / plural,plural form,plural
+अब्बड़ मन,लोग / plural,plural form,plural
+थोरिक मन,लोग / plural,plural form,plural
+नवा मन,लोग / plural,plural form,plural
+पुराना मन,लोग / plural,plural form,plural
+गरम मन,लोग / plural,plural form,plural
+ठंडा मन,लोग / plural,plural form,plural
+करथे मन,लोग / plural,plural form,plural
+करथें मन,लोग / plural,plural form,plural
+करही मन,लोग / plural,plural form,plural
+करइस मन,लोग / plural,plural form,plural
+करत रहिस मन,लोग / plural,plural form,plural
+जाथे मन,लोग / plural,plural form,plural
+जाथें मन,लोग / plural,plural form,plural
+जाही मन,लोग / plural,plural form,plural
+जाइस मन,लोग / plural,plural form,plural
+जात रहिस मन,लोग / plural,plural form,plural
+आथे मन,लोग / plural,plural form,plural
+आथें मन,लोग / plural,plural form,plural
+आही मन,लोग / plural,plural form,plural
+आइस मन,लोग / plural,plural form,plural
+आत रहिस मन,लोग / plural,plural form,plural
+खाथे मन,लोग / plural,plural form,plural
+खाथें मन,लोग / plural,plural form,plural
+खाही मन,लोग / plural,plural form,plural
+खाइस मन,लोग / plural,plural form,plural
+खात रहिस मन,लोग / plural,plural form,plural
+पीथे मन,लोग / plural,plural form,plural
+पीथें मन,लोग / plural,plural form,plural
+पीही मन,लोग / plural,plural form,plural
+पीइस मन,लोग / plural,plural form,plural
+पीत रहिस मन,लोग / plural,plural form,plural
+देखथे मन,लोग / plural,plural form,plural
+देखथें मन,लोग / plural,plural form,plural
+देखही मन,लोग / plural,plural form,plural
+देखइस मन,लोग / plural,plural form,plural
+देखत रहिस मन,लोग / plural,plural form,plural
+सुनथे मन,लोग / plural,plural form,plural
+सुनथें मन,लोग / plural,plural form,plural
+सुनही मन,लोग / plural,plural form,plural
+सुनइस मन,लोग / plural,plural form,plural
+सुनत रहिस मन,लोग / plural,plural form,plural
+बोलथे मन,लोग / plural,plural form,plural
+बोलथें मन,लोग / plural,plural form,plural
+बोलही मन,लोग / plural,plural form,plural
+बोलइस मन,लोग / plural,plural form,plural
+बोलत रहिस मन,लोग / plural,plural form,plural
+रहथे मन,लोग / plural,plural form,plural
+रहथें मन,लोग / plural,plural form,plural
+रहही मन,लोग / plural,plural form,plural
+रहइस मन,लोग / plural,plural form,plural
+रहत रहिस मन,लोग / plural,plural form,plural
+बैठथे मन,लोग / plural,plural form,plural
+बैठथें मन,लोग / plural,plural form,plural
+बैठही मन,लोग / plural,plural form,plural
+बैठइस मन,लोग / plural,plural form,plural
+बैठत रहिस मन,लोग / plural,plural form,plural
+चलथे मन,लोग / plural,plural form,plural
+चलथें मन,लोग / plural,plural form,plural
+चलही मन,लोग / plural,plural form,plural
+चलइस मन,लोग / plural,plural form,plural
+चलत रहिस मन,लोग / plural,plural form,plural
+गांव म जाथे मन,लोग / plural,plural form,plural
+गांव म आथे मन,लोग / plural,plural form,plural
+गांव म करथे मन,लोग / plural,plural form,plural
+गांव म रहिथे मन,लोग / plural,plural form,plural
+गांव म देखथे मन,लोग / plural,plural form,plural
+शहर म जाथे मन,लोग / plural,plural form,plural
+शहर म आथे मन,लोग / plural,plural form,plural
+शहर म करथे मन,लोग / plural,plural form,plural
+शहर म रहिथे मन,लोग / plural,plural form,plural
+शहर म देखथे मन,लोग / plural,plural form,plural
+बाजार म जाथे मन,लोग / plural,plural form,plural
+बाजार म आथे मन,लोग / plural,plural form,plural
+बाजार म करथे मन,लोग / plural,plural form,plural
+बाजार म रहिथे मन,लोग / plural,plural form,plural
+बाजार म देखथे मन,लोग / plural,plural form,plural
+स्कूल म जाथे मन,लोग / plural,plural form,plural
+स्कूल म आथे मन,लोग / plural,plural form,plural
+स्कूल म करथे मन,लोग / plural,plural form,plural
+स्कूल म रहिथे मन,लोग / plural,plural form,plural
+स्कूल म देखथे मन,लोग / plural,plural form,plural
+मंदिर म जाथे मन,लोग / plural,plural form,plural
+मंदिर म आथे मन,लोग / plural,plural form,plural
+मंदिर म करथे मन,लोग / plural,plural form,plural
+मंदिर म रहिथे मन,लोग / plural,plural form,plural
+मंदिर म देखथे मन,लोग / plural,plural form,plural
+खेत म जाथे मन,लोग / plural,plural form,plural
+खेत म आथे मन,लोग / plural,plural form,plural
+खेत म करथे मन,लोग / plural,plural form,plural
+खेत म रहिथे मन,लोग / plural,plural form,plural
+खेत म देखथे मन,लोग / plural,plural form,plural
+जंगल म जाथे मन,लोग / plural,plural form,plural
+जंगल म आथे मन,लोग / plural,plural form,plural
+जंगल म करथे मन,लोग / plural,plural form,plural
+जंगल म रहिथे मन,लोग / plural,plural form,plural
+जंगल म देखथे मन,लोग / plural,plural form,plural
+मंय मन,लोग / plural,plural form,plural
+हमन मन,लोग / plural,plural form,plural
+तंय मन,लोग / plural,plural form,plural
+तुमन मन,लोग / plural,plural form,plural
+ओ मन,लोग / plural,plural form,plural
+ओमन मन,लोग / plural,plural form,plural
+ए मन,लोग / plural,plural form,plural
+इहाँ मन,लोग / plural,plural form,plural
+ओतका मन,लोग / plural,plural form,plural
+का मन,लोग / plural,plural form,plural
+काबर मन,लोग / plural,plural form,plural
+कइसे मन,लोग / plural,plural form,plural
+कइँहा मन,लोग / plural,plural form,plural
+कब मन,लोग / plural,plural form,plural
+कऊन मन,लोग / plural,plural form,plural
+ला मन,लोग / plural,plural form,plural
+म मन,लोग / plural,plural form,plural
+ले मन,लोग / plural,plural form,plural
+बर मन,लोग / plural,plural form,plural
+लेके मन,लोग / plural,plural form,plural
+किसान मन,लोग / plural,plural form,plural
+धान मन,लोग / plural,plural form,plural
+खेत मन,लोग / plural,plural form,plural
+बीज मन,लोग / plural,plural form,plural
+खाद मन,लोग / plural,plural form,plural
+हल मन,लोग / plural,plural form,plural
+सिंचई मन,लोग / plural,plural form,plural
+फसल मन,लोग / plural,plural form,plural
+माटी मन,लोग / plural,plural form,plural
+मंदिर मन,लोग / plural,plural form,plural
+झरना मन,लोग / plural,plural form,plural
+नदिया मन,लोग / plural,plural form,plural
+पहार मन,लोग / plural,plural form,plural
+जंगल मन,लोग / plural,plural form,plural
+बांध मन,लोग / plural,plural form,plural
+मेला मन,लोग / plural,plural form,plural
+तीर्थ मन,लोग / plural,plural form,plural
+ददा मन,लोग / plural,plural form,plural
+दाई मन,लोग / plural,plural form,plural
+भइया मन,लोग / plural,plural form,plural
+बहिनी मन,लोग / plural,plural form,plural
+लइका मन,लोग / plural,plural form,plural
+बढ़िया मन,लोग / plural,plural form,plural
+अब्बड़ मन,लोग / plural,plural form,plural
+थोरिक मन,लोग / plural,plural form,plural
+नवा मन,लोग / plural,plural form,plural
+पुराना मन,लोग / plural,plural form,plural
+गरम मन,लोग / plural,plural form,plural
+ठंडा मन,लोग / plural,plural form,plural
+करथे मन,लोग / plural,plural form,plural
+करथें मन,लोग / plural,plural form,plural
+करही मन,लोग / plural,plural form,plural
+करइस मन,लोग / plural,plural form,plural
+करत रहिस मन,लोग / plural,plural form,plural
+जाथे मन,लोग / plural,plural form,plural
+जाथें मन,लोग / plural,plural form,plural
+जाही मन,लोग / plural,plural form,plural
+जाइस मन,लोग / plural,plural form,plural
+जात रहिस मन,लोग / plural,plural form,plural
+आथे मन,लोग / plural,plural form,plural
+आथें मन,लोग / plural,plural form,plural
+आही मन,लोग / plural,plural form,plural
+आइस मन,लोग / plural,plural form,plural
+आत रहिस मन,लोग / plural,plural form,plural
+खाथे मन,लोग / plural,plural form,plural
+खाथें मन,लोग / plural,plural form,plural
+खाही मन,लोग / plural,plural form,plural
+खाइस मन,लोग / plural,plural form,plural
+खात रहिस मन,लोग / plural,plural form,plural
+पीथे मन,लोग / plural,plural form,plural
+पीथें मन,लोग / plural,plural form,plural
+पीही मन,लोग / plural,plural form,plural
+पीइस मन,लोग / plural,plural form,plural
+पीत रहिस मन,लोग / plural,plural form,plural
+देखथे मन,लोग / plural,plural form,plural
+देखथें मन,लोग / plural,plural form,plural
+देखही मन,लोग / plural,plural form,plural
+देखइस मन,लोग / plural,plural form,plural
+देखत रहिस मन,लोग / plural,plural form,plural
+सुनथे मन,लोग / plural,plural form,plural
+सुनथें मन,लोग / plural,plural form,plural
+सुनही मन,लोग / plural,plural form,plural
+सुनइस मन,लोग / plural,plural form,plural
+सुनत रहिस मन,लोग / plural,plural form,plural
+बोलथे मन,लोग / plural,plural form,plural
+बोलथें मन,लोग / plural,plural form,plural
+बोलही मन,लोग / plural,plural form,plural
+बोलइस मन,लोग / plural,plural form,plural
+बोलत रहिस मन,लोग / plural,plural form,plural
+रहथे मन,लोग / plural,plural form,plural
+रहथें मन,लोग / plural,plural form,plural
+रहही मन,लोग / plural,plural form,plural
+रहइस मन,लोग / plural,plural form,plural
+रहत रहिस मन,लोग / plural,plural form,plural
+बैठथे मन,लोग / plural,plural form,plural
+बैठथें मन,लोग / plural,plural form,plural
+बैठही मन,लोग / plural,plural form,plural
+बैठइस मन,लोग / plural,plural form,plural
+बैठत रहिस मन,लोग / plural,plural form,plural
+चलथे मन,लोग / plural,plural form,plural
+चलथें मन,लोग / plural,plural form,plural
+चलही मन,लोग / plural,plural form,plural
+चलइस मन,लोग / plural,plural form,plural
+चलत रहिस मन,लोग / plural,plural form,plural
+गांव म जाथे मन,लोग / plural,plural form,plural
+गांव म आथे मन,लोग / plural,plural form,plural
+गांव म करथे मन,लोग / plural,plural form,plural
+गांव म रहिथे मन,लोग / plural,plural form,plural
+गांव म देखथे मन,लोग / plural,plural form,plural
+शहर म जाथे मन,लोग / plural,plural form,plural
+शहर म आथे मन,लोग / plural,plural form,plural
+शहर म करथे मन,लोग / plural,plural form,plural
+शहर म रहिथे मन,लोग / plural,plural form,plural
+शहर म देखथे मन,लोग / plural,plural form,plural
+बाजार म जाथे मन,लोग / plural,plural form,plural
+बाजार म आथे मन,लोग / plural,plural form,plural
+बाजार म करथे मन,लोग / plural,plural form,plural
+बाजार म रहिथे मन,लोग / plural,plural form,plural
+बाजार म देखथे मन,लोग / plural,plural form,plural
+स्कूल म जाथे मन,लोग / plural,plural form,plural
+स्कूल म आथे मन,लोग / plural,plural form,plural
+स्कूल म करथे मन,लोग / plural,plural form,plural
+स्कूल म रहिथे मन,लोग / plural,plural form,plural
+स्कूल म देखथे मन,लोग / plural,plural form,plural
+मंदिर म जाथे मन,लोग / plural,plural form,plural
+मंदिर म आथे मन,लोग / plural,plural form,plural
+मंदिर म करथे मन,लोग / plural,plural form,plural
+मंदिर म रहिथे मन,लोग / plural,plural form,plural
+मंदिर म देखथे मन,लोग / plural,plural form,plural
+खेत म जाथे मन,लोग / plural,plural form,plural
+खेत म आथे मन,लोग / plural,plural form,plural
+खेत म करथे मन,लोग / plural,plural form,plural
+खेत म रहिथे मन,लोग / plural,plural form,plural
+खेत म देखथे मन,लोग / plural,plural form,plural
+जंगल म जाथे मन,लोग / plural,plural form,plural
+जंगल म आथे मन,लोग / plural,plural form,plural
+जंगल म करथे मन,लोग / plural,plural form,plural
+जंगल म रहिथे मन,लोग / plural,plural form,plural
+जंगल म देखथे मन,लोग / plural,plural form,plural
+मंय मन,लोग / plural,plural form,plural
+हमन मन,लोग / plural,plural form,plural
+तंय मन,लोग / plural,plural form,plural
+तुमन मन,लोग / plural,plural form,plural
+ओ मन,लोग / plural,plural form,plural
+ओमन मन,लोग / plural,plural form,plural
+ए मन,लोग / plural,plural form,plural
+इहाँ मन,लोग / plural,plural form,plural
+ओतका मन,लोग / plural,plural form,plural
+का मन,लोग / plural,plural form,plural
+काबर मन,लोग / plural,plural form,plural
+कइसे मन,लोग / plural,plural form,plural
+कइँहा मन,लोग / plural,plural form,plural
+कब मन,लोग / plural,plural form,plural
+कऊन मन,लोग / plural,plural form,plural
+ला मन,लोग / plural,plural form,plural
+म मन,लोग / plural,plural form,plural
+ले मन,लोग / plural,plural form,plural
+बर मन,लोग / plural,plural form,plural
+लेके मन,लोग / plural,plural form,plural
+किसान मन,लोग / plural,plural form,plural
+धान मन,लोग / plural,plural form,plural
+खेत मन,लोग / plural,plural form,plural
+बीज मन,लोग / plural,plural form,plural
+खाद मन,लोग / plural,plural form,plural
+हल मन,लोग / plural,plural form,plural
+सिंचई मन,लोग / plural,plural form,plural

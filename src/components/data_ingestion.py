@@ -61,21 +61,56 @@ def process_tourism(data: List[dict]) -> List[Document]:
         docs.append(Document(page_content=content, metadata=metadata))
     return docs
 
-def get_chunked_documents(data_dir: str = "./data", chunk_size: int = 1000, chunk_overlap: int = 100) -> List[Document]:
+def load_jsonl_data(file_path: str) -> List[Document]:
+    """Load data from a JSONL QA dataset and convert to LangChain Documents."""
+    docs = []
+    if not os.path.exists(file_path):
+        print(f"Warning: File {file_path} not found.")
+        return docs
+        
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            for line in f:
+                item = json.loads(line.strip())
+                instruction = item.get("instruction", "")
+                output = item.get("output", "")
+                
+                if instruction and output:
+                    # Create a rich text representation for the Vector Embedding
+                    content = f"Question/Topic: {instruction}\nInformation: {output}"
+                    
+                    # Metadata for filtering if needed later
+                    metadata = {
+                        "source": os.path.basename(file_path),
+                        "type": "qa_pair"
+                    }
+                    docs.append(Document(page_content=content, metadata=metadata))
+    except Exception as e:
+        print(f"Error loading {file_path}: {e}")
+        
+    return docs
+
+def get_chunked_documents(data_dir: str = "./data", chunk_size: int = 1500, chunk_overlap: int = 200) -> List[Document]:
     """
-    Reads JSON files, parses them, and chunks the texts into Document objects.
+    Reads JSON and JSONL files, parses them, and chunks the texts into Document objects.
     """
     all_raw_docs = []
     
-    # 1. Process Schemes
-    schemes_path = os.path.join(data_dir, "schemes.json")
-    schemes_data = load_json_data(schemes_path)
-    all_raw_docs.extend(process_schemes(schemes_data))
+    # 1. Process Large JSONL QA Datasets (Tourism, Government Schemes, etc.)
+    import glob
+    jsonl_files = glob.glob(os.path.join(data_dir, "*.jsonl"))
+    for file_path in jsonl_files:
+        print(f"Ingesting JSONL dataset: {file_path}")
+        all_raw_docs.extend(load_jsonl_data(file_path))
     
-    # 2. Process Tourism
+    # 2. Process Legacy JSON Files (if they still exist)
+    schemes_path = os.path.join(data_dir, "schemes.json")
+    if os.path.exists(schemes_path):
+        all_raw_docs.extend(process_schemes(load_json_data(schemes_path)))
+        
     tourism_path = os.path.join(data_dir, "tourism.json")
-    tourism_data = load_json_data(tourism_path)
-    all_raw_docs.extend(process_tourism(tourism_data))
+    if os.path.exists(tourism_path):
+        all_raw_docs.extend(process_tourism(load_json_data(tourism_path)))
     
     # 3. Text Splitting
     text_splitter = RecursiveCharacterTextSplitter(
